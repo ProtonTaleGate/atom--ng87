@@ -1,4 +1,4 @@
-# 
+# Enhance Atom for PC | Atom for Windows with automatic Atom for PC | Atom for Windows Integration | linting + Git-integration, the #1 integration. Includes linting and
 
 
 
